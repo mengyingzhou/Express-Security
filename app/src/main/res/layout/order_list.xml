@@ -1,0 +1,295 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical"
+    android:scrollbars="none">
+
+    <com.dexafree.materialList.view.MaterialListView
+        android:id="@+id/search_material_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/show_scro"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:orientation="vertical">-->
+
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/liear_noarr"-->
+            <!--android:clickable="true"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="40px"-->
+                <!--android:visibility="visible"-->
+                <!--android:weightSum="1">-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60px"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:background="@drawable/order"></ImageView>-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:layout_weight="11.65"-->
+                    <!--android:clickable="true"-->
+                    <!--android:gravity="center"-->
+                    <!--android:paddingLeft="40px"-->
+                    <!--android:paddingRight="40px"-->
+                    <!--android:paddingTop="10px"-->
+                    <!--android:text="订单号：123456789"-->
+                    <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--</LinearLayout>-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件人：XXX"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件地址：兰州大学"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="联系电话：180XXXX1587"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:contextClickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="……                                          未到达"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<View-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="0.2dip"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_marginLeft="40px"-->
+                <!--android:layout_marginRight="40px"-->
+                <!--android:layout_marginTop="20px"-->
+                <!--android:background="#000000" />-->
+
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/liear_arr"-->
+            <!--android:clickable="true"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="40px"-->
+                <!--android:visibility="visible"-->
+                <!--android:weightSum="1">-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60px"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:background="@drawable/order"></ImageView>-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:layout_weight="11.65"-->
+                    <!--android:clickable="true"-->
+                    <!--android:gravity="center"-->
+                    <!--android:paddingLeft="40px"-->
+                    <!--android:paddingRight="40px"-->
+                    <!--android:paddingTop="10px"-->
+                    <!--android:text="订单号：59638461"-->
+                    <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--</LinearLayout>-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件人：XXX"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件地址：兰州大学"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="联系电话：180XXXX1234"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:contextClickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="……                                          已达到"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<View-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="0.2dip"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_marginLeft="40px"-->
+                <!--android:layout_marginRight="40px"-->
+                <!--android:layout_marginTop="20px"-->
+                <!--android:background="#000000" />-->
+
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="40px"-->
+                <!--android:visibility="visible"-->
+                <!--android:weightSum="1">-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="60px"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:background="@drawable/order"></ImageView>-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="60px"-->
+                    <!--android:layout_weight="11.65"-->
+                    <!--android:clickable="true"-->
+                    <!--android:gravity="center"-->
+                    <!--android:paddingLeft="40px"-->
+                    <!--android:paddingRight="40px"-->
+                    <!--android:paddingTop="10px"-->
+                    <!--android:text="订单号：1598491556"-->
+                    <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--</LinearLayout>-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件人：XXX"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="收件地址：兰州大学"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="联系电话：180XXXX8569"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="60px"-->
+                <!--android:layout_weight="11.65"-->
+                <!--android:clickable="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingLeft="40px"-->
+                <!--android:paddingTop="10px"-->
+                <!--android:text="……                                          已收取"-->
+                <!--android:textSize="@dimen/homepage_list" />-->
+
+            <!--<View-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="0.2dip"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_marginLeft="40px"-->
+                <!--android:layout_marginRight="40px"-->
+                <!--android:layout_marginTop="20px"-->
+                <!--android:background="#000000" />-->
+        <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+<!--</ScrollView>-->

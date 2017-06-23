@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTheme">#5a82b3</color>
+
+    <color name="color_actionbar">#3c5676</color>
+    <color name="menu_backgroud">#3c5676</color>
+    <color name="tab_color">#ff5a82b3</color>
+    <color name="backgroud_white">#ffffffff</color>
+    <color name="button_gery">#ffFFFAF0</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- 蓝色 -->
+    <color name="blue">#316e9b</color>
+    <color name="half_blue">#6aaddf</color>
+    <color name="scran_blue">#538ab3</color>
+
+    <color name="half_transparent">#80000000</color>
+    <color name="light_gery">#80efe5e5</color>
+
+    <color name="yellow">#faec51</color>
+    <color name="green">#66d437</color>
+    <color name="liaght_blue">#55c9bb</color>
+    <color name="red">#ff5a5a</color>
+    <color name="purpre">#f751fa</color>
+
+    <color name="grey">#dad4d4</color>
+    <color name="bg_popwindow">#c3695d5d</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+</resources>

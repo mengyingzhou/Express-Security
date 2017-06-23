@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/menu/option_menu.xml",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/menu/option_menu.xml"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/menu/main_menu.xml"
+    }
+]

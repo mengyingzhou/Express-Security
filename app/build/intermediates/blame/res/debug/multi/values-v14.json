@@ -1,0 +1,538 @@
+[
+    {
+        "outputFile": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 35,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 42,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 45,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 42,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 45,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 49,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 33,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 44,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 47,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 56,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 59,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/LZU_Express-Security/materialList/unspecified/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 70,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1570,
+                    "endColumn": 82,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2058
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2063,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2485,
+                    "endColumn": 119,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 62,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2817
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2822,
+                    "endColumn": 62,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 131,
+                    "endOffset": 3012
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3017,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3260
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3265,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3393
+                },
+                "from": {
+                    "file": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 738
+                    }
+                }
+            }
+        ]
+    }
+]

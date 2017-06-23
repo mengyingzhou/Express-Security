@@ -1,0 +1,128 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <SurfaceView
+        android:id="@+id/surfaceview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="@dimen/activity_title_height"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/scan_tv_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="15dp"
+            android:text="@string/qrscan_text"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/scan_tv_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="23dp"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_contain"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="35dp"
+
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="145dp">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/half_blue" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/half_blue" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@color/half_blue" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:background="@color/half_blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_height"
+            android:layout_height="@dimen/scan_frame_width"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_width"
+            android:layout_height="@dimen/scan_frame_height"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_height"
+            android:layout_height="@dimen/scan_frame_width"
+            android:layout_alignParentRight="true"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_width"
+            android:layout_height="@dimen/scan_frame_height"
+            android:layout_alignParentRight="true"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_height"
+            android:layout_height="@dimen/scan_frame_width"
+            android:layout_alignParentBottom="true"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_width"
+            android:layout_height="@dimen/scan_frame_height"
+            android:layout_alignParentBottom="true"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_height"
+            android:layout_height="@dimen/scan_frame_width"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@color/blue" />
+
+        <View
+            android:layout_width="@dimen/scan_frame_width"
+            android:layout_height="@dimen/scan_frame_height"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@color/blue" />
+
+        <com.comyou.QRScan.ScanLineView
+            android:id="@+id/scanline"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

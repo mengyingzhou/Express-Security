@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tab_text_size">12sp</dimen>
+    <dimen name="tab_pad">5dp</dimen>
+    <dimen name="home_padding_top">35dp</dimen>
+    <dimen name="home_padding_bottom">5dp</dimen>
+    <dimen name="home_title_size">20sp</dimen>
+    <dimen name="trans_padding_top">20dp</dimen>
+    <dimen name="trans_padding_left">45dp</dimen>
+    <dimen name="trans_sub_title_size">17sp</dimen>
+
+    <dimen name="activity_title_height">45dp</dimen>
+    <dimen name="title_size">18sp</dimen>
+    <dimen name="content_size">15sp</dimen>
+    <dimen name="scan_frame_width">4.5dp</dimen>
+    <dimen name="scan_frame_height">34dp</dimen>
+    <dimen name="delete_action_len">60dp</dimen>
+
+    <dimen name="homepage_list">15sp</dimen>
+</resources>

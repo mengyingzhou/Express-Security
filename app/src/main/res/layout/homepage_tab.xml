@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/backgroud_white"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/person_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/backgroud_white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/home_padding_bottom">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_titile"
+                android:textSize="@dimen/home_title_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/username" />
+
+            <EditText
+                android:id="@+id/person_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user_password" />
+
+            <EditText
+                android:id="@+id/person_password"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPassword" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/person_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login"></Button>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/login_succeed_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="30px"
+                android:paddingTop="20px"
+                android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/head_portrait"
+                    android:layout_width="120px"
+                    android:layout_height="120px"
+                    android:background="@drawable/logo" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="120px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="20px"
+                    android:paddingTop="20px"
+                    android:text="您好！asd"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="30px"
+                android:layout_marginRight="30px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:id="@+id/ll_order"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/order"></ImageView>
+
+                <TextView
+                    android:id="@+id/tv_order"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingRight="40px"
+                    android:paddingTop="10px"
+                    android:text="我的快递"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/kefu"></ImageView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="客服中心"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/logout"></ImageView>
+
+                <TextView
+                    android:id="@+id/tv_logout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="注销"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/setting"></ImageView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="设置"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/updade"></ImageView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="检查更新"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/callwe"></ImageView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="联系我们"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.2dip"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40px"
+                android:layout_marginRight="40px"
+                android:layout_marginTop="20px"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/backgroud_white"
+                android:orientation="horizontal"
+                android:paddingLeft="40px"
+                android:paddingTop="40px"
+                android:visibility="visible"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="60px"
+                    android:layout_height="60px"
+                    android:background="@drawable/info"></ImageView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="60px"
+                    android:layout_weight="11.65"
+                    android:gravity="center"
+                    android:paddingLeft="40px"
+                    android:paddingTop="10px"
+                    android:text="关于"
+                    android:textSize="@dimen/homepage_list" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_search.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-mdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_trans.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-mdpi/ic_menu_trans.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_person.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-mdpi/ic_menu_person.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_scan.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-mdpi/ic_menu_scan.png"
+    }
+]

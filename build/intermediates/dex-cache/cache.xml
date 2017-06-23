@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/LZU_Express-Security/materialList/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="642730ec183711be7e8317cd8632bfa6f1db58b7">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/LZU_Express-Security-materialList-unspecified_1a6bdd92a47ba676fbd0f5964f2e2b69375bca21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_c10dee36ddc3026a7b490dddb427fea1788e64ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/libs/zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/zxing_8bf8394149522b7a1296ef4a22db834bd65e555a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_dd523abaef13cd2b324c529b56438bb5f698f488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/library-2.4.0_e371b4016ec02b95d1e5ee65a677043486bdc93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_5aad6951bd59526326c0660e0eaa822a85c6f380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_047bf3c2f49f7e3e0abd25aa65fa8c0d77192a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_c7000e9152bd493864e52bb8a2a32176c260c19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_886ca3bf1f136e51a3348e854b709876bd10e73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/libs/qrscan.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da56345df4713d87e9df0aa4932bbc2c00f00534">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/qrscan_cf141a13db7d1a5ec822f7f021f1c36b006c1e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/libs/httpclient-4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/httpclient-4.5_4595d2c1903786c3c051dad4f49508b29759c4f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_a2842e5108313a0e528b3a7872bb0c4df705e2be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_3fae6d3de5611f8227d3047c69713e74e520dc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/libs/httpcore-4.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/httpcore-4.4.1_4fcad890f0e5e34b56eb5fd641403f145f1d954b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aerber/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_585cc1b8a9b142ab3a2651e0e8d637dd79383d11.jar" />
+    </item>
+
+</items>

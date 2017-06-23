@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Payment_of_Charge">
+        <item>Shipper</item>
+        <item>Consignee</item>
+        <item>3th Party</item>
+    </string-array>
+    <string-array name="Shipment_Type">
+        <item>Same day</item>
+        <item>Cargo</item>
+        <item>Four day</item>
+    </string-array>
+    <string-array name="home_list">
+        <item>S.F.Express</item>
+        <item>ZTO Express</item>
+        <item>Express Mail Service</item>
+        <item>YTO Express</item>
+        <item>YUNDA Express</item>
+    </string-array>
+    <string name="From">From:</string>
+    <string name="Id">Id:</string>
+    <string name="Isreturn">Is resturn:</string>
+    <string name="NetWorkTimeOut">The network is unavailable!Please Check!</string>
+    <string name="app_name">Express Security</string>
+    <string name="area_code_from">Area Code:</string>
+    <string name="area_code_to">Area Code:</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="camera">Camera</string>
+    <string name="check_toast">已经确认由本人收件完成！</string>
+    <string name="connect">Connect a device</string>
+    <string name="considnee_info">Consignee Information</string>
+    <string name="contact">Contact</string>
+    <string name="courier_info">Courier Information</string>
+    <string name="delieved_by">Delieved by:</string>
+    <string name="descrip_of_good">Description of Goods:</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="feedback">Feedback</string>
+    <string name="freight">Freight:</string>
+    <string name="image_not_exist">Image not exist</string>
+    <string name="image_sucess">Image save success</string>
+    <string name="login">Login</string>
+    <string name="login_fail">Request error!No this user!</string>
+    <string name="login_succeed_toast">Login succeed!</string>
+    <string name="login_titile">Login Layout</string>
+    <string name="login_welcome">Welcome to Express Security!\n</string>
+    <string name="logistics_info">Logistics Information</string>
+    <string name="logistics_type">Logistics Type:</string>
+    <string name="logout">Logout</string>
+    <string name="logout_fail">Time out!</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="order_no">Order No:</string>
+    <string name="order_password">Order Password:</string>
+    <string name="password_error">Password error!</string>
+    <string name="pay_of_charge">Payment of Charge</string>
+    <string name="person">Me</string>
+    <string name="person_from">Contact Preson:</string>
+    <string name="pick_date">Pick Date:</string>
+    <string name="picked_by">Pickup by:</string>
+    <string name="post">Post</string>
+    <string name="preson_to">Contact Preson:</string>
+    <string name="qrscan_text">Please fouce on the QR code to scran!</string>
+    <string name="quantity">Quantity:</string>
+    <string name="request_fail">Request error!No this order Or password error!</string>
+    <string name="request_qr_fail">二维码请求失败！</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="search">Search</string>
+    <string name="search_btn">Search</string>
+    <string name="search_logistic">Search logistic</string>
+    <string name="search_result">Search Result:</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="select_logistics">Select Logistics:</string>
+    <string name="shipment_type">Shipment Type</string>
+    <string name="shipper_info">Shipper information：</string>
+    <string name="show_result">The result show：</string>
+    <string name="tel_from">Tel:</string>
+    <string name="tel_to">Tel:</string>
+    <string name="text_not_be_empty">Text can not be empty</string>
+    <string name="the_true_information">The true information：</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="to">To:</string>
+    <string name="trans">Trans</string>
+    <string name="user_password">Password:</string>
+    <string name="username">Username:</string>
+    <string name="workingtime">The working time is:</string>
+</resources>

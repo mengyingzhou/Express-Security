@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="40px"
+            android:paddingTop="40px"
+            android:visibility="visible"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="60px"
+                android:layout_height="60px"
+                android:background="@drawable/order"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="90px"
+                android:layout_weight="11.65"
+                android:clickable="true"
+                android:gravity="center"
+                android:paddingLeft="40px"
+                android:paddingRight="40px"
+                android:paddingTop="10px"
+                android:text="订单号：123456789"
+                android:textSize="@dimen/homepage_list" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="90px"
+            android:layout_weight="11.65"
+            android:clickable="true"
+            android:gravity="center"
+            android:paddingLeft="40px"
+            android:paddingTop="10px"
+            android:text="收件人：XXX"
+            android:textSize="@dimen/homepage_list" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="90px"
+            android:layout_weight="11.65"
+            android:gravity="center"
+            android:paddingLeft="40px"
+            android:paddingTop="10px"
+            android:text="收件地址：兰州大学"
+            android:textSize="@dimen/homepage_list" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="90px"
+            android:layout_weight="11.65"
+            android:gravity="center"
+            android:paddingLeft="40px"
+            android:paddingTop="10px"
+            android:text="联系电话：180XXXX1587"
+            android:textSize="@dimen/homepage_list" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="90px"
+            android:layout_weight="11.65"
+            android:gravity="center"
+            android:paddingLeft="40px"
+            android:paddingTop="10px"
+            android:text="物流追踪："
+            android:textSize="@dimen/homepage_list" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="11.65"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:paddingLeft="40px"
+            android:paddingTop="10px"
+            android:text="2017-03-07
+            周二 \n10:23:40 您的订单开始处理\n11:09:00 您的订单待配货\n12:32:58 您的包裹已出库\n12:34:55 包裹正在等待揽收\n13:30:06 [南京市]邮政快递包裹 中国邮政集团公司南京市大宗邮件收寄处理中收件员 已揽件\n18:43:00 [南京市]中国邮政集团公司南京市大宗邮件收寄处理中 已发出\n22:28:10 [南京市]快件已到达 南京\n22:35:47 [南京市]南京 已发出\n\n2017-03-09
+            周四\n08:13:00 [兰州市]快件已到达 兰州\n09:53:41 [兰州市]快件已到达 兰州"
+            android:textSize="@dimen/homepage_list" />
+    </LinearLayout>
+</ScrollView>

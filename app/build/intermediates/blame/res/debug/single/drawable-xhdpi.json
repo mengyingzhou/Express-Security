@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xhdpi/check.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xhdpi/check.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xhdpi/splashimage.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xhdpi/splashimage.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xhdpi/test.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xhdpi/test.png"
+    }
+]

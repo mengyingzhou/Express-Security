@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/actionbar_search_icon"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/search_btn"/>
+
+    <item
+        android:id="@+id/camera_menu"
+        android:icon="@drawable/menu_scan_hands_icon"
+        android:title="@string/camera" />
+    <item
+        android:id="@+id/contact_menu"
+        android:icon="@drawable/menu_add_icon"
+        android:title="@string/contact"
+        />
+    <item
+        android:id="@+id/action_feedback"
+        android:icon="@drawable/menu_feedback_icon"
+        android:title="@string/feedback"/>
+
+</menu>

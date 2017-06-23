@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xxhdpi/menu_feedback_icon.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xxhdpi/menu_feedback_icon.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xxhdpi/menu_add_icon.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xxhdpi/menu_add_icon.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xxhdpi/actionbar_add_icon.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xxhdpi/actionbar_add_icon.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xxhdpi/actionbar_search_icon.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xxhdpi/actionbar_search_icon.png"
+    },
+    {
+        "merged": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/build/intermediates/res/merged/debug/drawable-xxhdpi/menu_scan_hands_icon.png",
+        "source": "/home/aerber/AndroidStudioProjects/LZU_Express-Security/app/src/main/res/drawable-xxhdpi/menu_scan_hands_icon.png"
+    }
+]
